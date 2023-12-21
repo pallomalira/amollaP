@@ -26,6 +26,6 @@ Sou desenvolvedora BackEnd, amo tecnologia e estou sempre em busca de conhecimen
 
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/? username=amollaP&show_icons=true&theme=bear&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amollaP&show_icons=true&theme=bear&count_private=true"/>
 <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=amollaP&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
