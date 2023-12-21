@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-Sou desenvolvedora BackEnd, amo tecnologia, e Estou sempre em busca de conhecimento!
+Sou desenvolvedora BackEnd, amo tecnologia, e estou sempre em busca de conhecimento!
 
 - ❤ Estudante de Sistemas de Informação
 - 👩‍💻 Aprendendo tecnologias back-end, front-end & Banco de Dados
