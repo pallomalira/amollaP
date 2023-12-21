@@ -1,15 +1,19 @@
 
-<img src = "banner.gif" width = "325px" align = "right">
 # ❤ Olá, bom ter você por aqui!
   <div id="badges">
   <a href = "https://www.linkedin.com/in/pallomalira/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
 Sou desenvolvedora BackEnd, amo tecnologia e estou sempre em busca de conhecimento!
 
 - ❤ Estudante de Sistemas de Informação
 - 👩‍💻 Aprendendo tecnologias back-end, front-end & Banco de Dados
+##
+<div align="center"> 
+ <img align="center" alt="" height="338" width="600" src="assets/img/gif.readme.gif">
+</div>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -26,6 +30,7 @@ Sou desenvolvedora BackEnd, amo tecnologia e estou sempre em busca de conhecimen
 
 
 <div align = "left">
-<img height = "150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amollaP&show_icons=true&theme=bear&count_private=true"/>
-<img height = "150em" src="https://github-readme-stats.vercel.app/api?username=amollaP&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<img width="48%"src="https://github-readme-stats.vercel.app/api?username=amollaP&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height = "150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amollaP&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
 </div>
