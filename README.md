@@ -6,14 +6,16 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-Sou desenvolvedora BackEnd, amo tecnologia, e Estou sempre em busca de conhecimento! (https://github.com/amollaP).
+Sou desenvolvedora BackEnd, amo tecnologia, e Estou sempre em busca de conhecimento!
+
 - ❤ Estudante de Sistemas de Informação
 - 👩‍💻 Aprendendo tecnologias back-end, front-end & Banco de Dados
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+
 </div>
 ---
 
