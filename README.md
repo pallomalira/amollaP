@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-Sou desenvolvedora BackEnd, amo tecnologia, e estou sempre em busca de conhecimento!
+Sou desenvolvedora BackEnd, amo tecnologia e estou sempre em busca de conhecimento!
 
 - ❤ Estudante de Sistemas de Informação
 - 👩‍💻 Aprendendo tecnologias back-end, front-end & Banco de Dados
@@ -21,9 +21,11 @@ Sou desenvolvedora BackEnd, amo tecnologia, e estou sempre em busca de conhecime
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
+
 ---
 
-<div align = "center">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amollaP&show_icons=true&theme=bear&count_private=true"/>
+
+<div align = "left">
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/? username=amollaP&show_icons=true&theme=bear&count_private=true"/>
 <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=amollaP&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
