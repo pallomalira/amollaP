@@ -10,10 +10,7 @@ Sou desenvolvedora BackEnd, amo tecnologia e estou sempre em busca de conhecimen
 
 - ❤ Estudante de Sistemas de Informação
 - 👩‍💻 Aprendendo tecnologias back-end, front-end & Database
-##
-<div align="center"> 
- <img align="center" alt="" height="338" width="600" src="assets/img/gif.readme.gif">
-</div>
+
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
