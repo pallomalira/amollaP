@@ -9,7 +9,7 @@
 Sou desenvolvedora BackEnd, amo tecnologia e estou sempre em busca de conhecimento!
 
 - ❤ Estudante de Sistemas de Informação
-- 👩‍💻 Aprendendo tecnologias back-end, front-end & Banco de Dados
+- 👩‍💻 Aprendendo tecnologias back-end, front-end & Database
 ##
 <div align="center"> 
  <img align="center" alt="" height="338" width="600" src="assets/img/gif.readme.gif">
